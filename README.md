@@ -81,4 +81,3 @@
 
 
 ![stats1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Battincik&theme=monokai)
-![stats2](https://activity-graph.herokuapp.com/graph?username=Battincik&theme=react-dark)
