@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Battincik</h1>
 
-> Hi, I'm Bahattin. <br>
-> I've been developing something for about 4-5 years <br>
-> I'll be sharing a few of my open source projects here soon. <br>
-> Stand by for now!
-> 
-> <details><summary>?</summary>
->   <pre>
->   Simplified mysql management for javascript
->   Discord bot with advanced web dashboard
->   </pre>
->  </details>
+
 <br>**IDEs**<br>
 ![AndrodStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
