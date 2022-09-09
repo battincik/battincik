@@ -59,6 +59,3 @@
 ![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 ![tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-
-
-![stats1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Battincik&theme=monokai)
